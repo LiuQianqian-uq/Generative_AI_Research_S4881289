@@ -1,0 +1,7 @@
+Date: 2026-04-30
+Activities and Notes:
+- Set up the GitHub repository and cloned it to my local machine.
+- Added my project files to the repository and committed them with clear messages.
+- Encountered an issue where empty folders did not appear on GitHub; resolved by adding a test file to the directory structure.
+- Created an issue and milestone to track my progress on the assignment.
+- Successfully pushed all files to the remote repository.
